@@ -1,0 +1,57 @@
+@options
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'15'
+-sourcepath
+'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'taskSix 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'taskSix 1.0-SNAPSHOT API'
+'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/src/main/java/delta.java'
+'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/src/main/java/logMgr.java'
+'C:/Programmers Related/JAVA/JAVA_incubator/JAvaTasks/taskSix/src/main/java/main.java'
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\src\main\java\delta.java = 1634626842475
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\src\main\java\logMgr.java = 1634626855126
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\src\main\java\main.java = 1634631159466
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\src\main\java = 1634631159467
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\allclasses-index.html = 1634635301172
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\allpackages-index.html = 1634635301180
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\constant-values.html = 1634635300974
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\delta.html = 1634635300880
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\deprecated-list.html = 1634635301037
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\element-list = 1634635300927
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\help-doc.html = 1634635301199
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\index-all.html = 1634635301152
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\index.html = 1634635301187
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\jquery-ui.overrides.css = 1634635301387
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\logMgr.html = 1634635300902
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\main.html = 1634635300921
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\member-search-index.js = 1634635301140
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\module-search-index.js = 1634635301126
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\overview-tree.html = 1634635301024
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\package-search-index.js = 1634635301130
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\package-summary.html = 1634635300943
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\package-tree.html = 1634635300966
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\package-use.html = 1634635301019
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\script.js = 1634635301221
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\search.js = 1634635301230
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\stylesheet.css = 1634635301212
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\tag-search-index.js = 1634635301146
+C:\Programmers Related\JAVA\JAVA_incubator\JAvaTasks\taskSix\target\site\apidocs\type-search-index.js = 1634635301136
